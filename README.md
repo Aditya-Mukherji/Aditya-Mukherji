@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a passionate developer. who likes to develop robust and dynamic websites while staying updated with latest technologies and frameworks.</p>
+<p align="left">I am a passionate developer, who likes to develop robust and dynamic websites while staying updated with latest technologies and frameworks.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Learning: JavaScript Development and Deployment<br>🎯 Goals: To turn coffee into code<br>🎲 Fun fact: An innocent-seeming Spider-Man scene took 156 takes</p>
+<p align="left">👨🏻‍💻 Learning: NextJs Development and Deployment<br>🎯 Goals: To turn coffee into code<br>🎲 Fun fact: An innocent-seeming Spider-Man scene took 156 takes</p>
 
 ###
 
